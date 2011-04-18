@@ -1,3 +1,5 @@
+https://github.com/PaulUithol/Backbone-relational looks like a cleaner approach. It relies on the same basic stuff, a model store to keep track globally of model instances. 
+
 Example in coffeescript:
 
 	this.Foreman = Backbone.Model.extend
